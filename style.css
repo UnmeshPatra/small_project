@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+  }
+  html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  noway{
+    display: flex;
+    right: 122px;
+  }
